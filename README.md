@@ -1,2 +1,2 @@
 Code in albro.zip
-APK already uploaded as app-debug.apk
+APK can't be on github because it is too big
